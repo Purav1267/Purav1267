@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **Food Ordering Website**
  
- 🌱 I’m currently learning **React.js, Next.js, Firebase, MongoDB **
+ 🌱 I’m currently learning **React.js, Next.js, Firebase, MongoDB**
 
-💬 Ask me about **Javascript, C++, HTML, CSS, SQL ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about Javascript, C++, HTML, CSS, SQL ... or anything
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
