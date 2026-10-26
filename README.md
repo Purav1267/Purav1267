@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Purav+Malik!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from INDIA <sub>IN</sub></h3>
+<h3 align="center">A passionate Data Analyst from INDIA <sub>IN</sub></h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Food Ordering Website**
+ 🔭 I’m currently working at **American Express**
  
- 🌱 I’m currently learning **React.js, Next.js, Firebase, MongoDB**
+ 🌱 I’m currently learning **Bigframes, Google Bigquery**
 
 💬 Ask me about Javascript, C++, HTML, CSS, SQL ... or anything
 
